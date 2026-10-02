@@ -1,4 +1,4 @@
-# data-analysis-project
+# Taobao Shopper Behavior Analysis
 
 ## Project Question
 Where do Taobao shoppers drop off between viewing a product and buying it, and what do buyers do differently?
